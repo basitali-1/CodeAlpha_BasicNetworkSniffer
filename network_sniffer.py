@@ -1,7 +1,7 @@
 """
 CodeAlpha Internship - Task 1: Basic Network Sniffer
 =====================================================
-Author  : [Your Name]
+Author  :[Abdul Basit]
 Tool    : Python + Scapy
 Purpose : Capture and analyze live network packets,
           displaying source/destination IPs, protocols, and payloads.
